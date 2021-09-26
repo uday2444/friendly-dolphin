@@ -198,8 +198,7 @@ sections:
   - title: How Do We Work !
     subtitle: 'Supporting The Cause, Building Working Together Platform'
     features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
