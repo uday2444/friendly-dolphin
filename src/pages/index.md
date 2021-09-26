@@ -195,29 +195,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - type: grid_section
-    title: Our Sponsors
-    subtitle: We Are Supported by Awesome Companies
-    align: center
-    grid_items:
-      - image: images/stackbit.svg
-        image_alt: Stackbit logo
-        image_align: center
-      - image: images/netlify.svg
-        image_alt: Netlify logo
-        image_align: center
-      - image: images/github.svg
-        image_alt: GitHub logo
-        image_align: center
-      - image: images/sticker-mule.svg
-        image_alt: Sticker Mule logo
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    padding_top: large
-    padding_bottom: large
-    background_color: none
   - type: cta_section
     title: Current price is only $49. The price will increase soon!
     actions:
