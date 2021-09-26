@@ -141,7 +141,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/facility.jpeg
-      - title: lorem-ipsum
+      - title: Marketing Strategies
         subtitle: lorem-ipsum
         title_align: left
         content: >-
