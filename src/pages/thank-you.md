@@ -36,6 +36,7 @@ sections:
         default_value: Select
         options:
           - lorem-ipsum
+          - lorem-ipsum
         is_required: false
     submit_label: lorem-ipsum
     align_vert: top
