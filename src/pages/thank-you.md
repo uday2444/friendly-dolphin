@@ -7,7 +7,7 @@ sections:
     actions: []
     align: center
     padding_bottom: large
-    background_color: none
+    background_color: primary
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     title_align: left
