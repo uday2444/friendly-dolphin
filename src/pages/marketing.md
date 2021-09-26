@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: MARKETING STRATEGIES
 sections: []
 seo:
   title: ''
