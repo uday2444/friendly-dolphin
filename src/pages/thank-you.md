@@ -8,7 +8,7 @@ sections:
     align: center
     padding_bottom: large
     background_color: primary
-  - title: lorem-ipsum
+  - title: 'Contact '
     subtitle: lorem-ipsum
     title_align: left
     content: >-
