@@ -2,7 +2,6 @@
 title: FMCG BTL SERVICE
 sections:
   - title: FMCG BTL SERVICE
-    subtitle: lorem-ipsum
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
