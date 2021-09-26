@@ -39,7 +39,7 @@ sections:
           - Marketing Strategies
           - FMCG BTL Services
         is_required: false
-      - input_type: text
+      - input_type: textarea
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
