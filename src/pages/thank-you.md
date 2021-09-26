@@ -3,7 +3,7 @@ title: Thank You
 sections:
   - type: hero_section
     title: Get In Touch
-    subtitle: Thank you for testing the Event theme!
+    subtitle: 'It''s pleasure connecting, looking to your valuable association'
     actions:
       - label: Back to homepage
         url: /
