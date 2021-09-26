@@ -198,17 +198,9 @@ sections:
   - title: How Do We Work !
     subtitle: 'Supporting The Cause, Building Working Together Platform'
     features:
-      - content: >-
-          ## Lorem ipsum
+      - content: |+
+          A plan of action intended to accomplish a specific goal.
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
