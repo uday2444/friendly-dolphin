@@ -269,7 +269,7 @@ sections:
     title: This is a Call to Action
   - type: grid_section
     grid_items:
-      - title: Address
+      - title: Location
         content: |-
           1234 Some St.<br/>
           Some City, ST 12345<br/>
