@@ -40,7 +40,7 @@ sections:
           - FMCG BTL Services
         is_required: false
       - input_type: textarea
-        name: lorem-ipsum
+        name: Message
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
