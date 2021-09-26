@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: FACILITY MANAGEMENT
 sections: []
 seo:
   title: ''
