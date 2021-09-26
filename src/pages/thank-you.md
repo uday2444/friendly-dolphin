@@ -37,7 +37,7 @@ sections:
         options:
           - Facility Management
           - Marketing Strategies
-          - lorem-ipsum
+          - FMCG BTL Services
         is_required: false
     submit_label: lorem-ipsum
     align_vert: top
