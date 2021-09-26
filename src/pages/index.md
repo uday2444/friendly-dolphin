@@ -126,7 +126,7 @@ sections:
         content_align: left
         actions:
           - label: Read More
-            url: '#'
+            url: /facility
             style: primary
             has_icon: false
             icon: arrow-left
