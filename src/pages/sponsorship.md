@@ -1,5 +1,5 @@
 ---
-title: Sponsorship
+title: Services
 seo:
   title: Sponsorship
   description: This is the sponsorship page
