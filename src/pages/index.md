@@ -219,7 +219,6 @@ sections:
         align: left
         image: images/tactic.jpeg
       - title: Goals & Objectives
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
