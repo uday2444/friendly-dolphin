@@ -252,7 +252,7 @@ sections:
     type: features_section
   - type: cta_section
     actions:
-      - label: Call Us Now
+      - label: Call US Now
         url: /thank-you
         style: primary
         has_icon: true
