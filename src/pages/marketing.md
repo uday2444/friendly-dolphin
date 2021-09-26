@@ -3,8 +3,7 @@ title: MARKETING STRATEGIES
 sections:
   - title: MARKETING STRATEGIES
     features:
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
