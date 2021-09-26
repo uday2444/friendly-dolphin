@@ -251,7 +251,6 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - type: cta_section
-    title: Current price is only $49. The price will increase soon!
     actions:
       - label: Get tickets
         url: /thank-you
