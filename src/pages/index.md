@@ -252,7 +252,7 @@ sections:
     type: features_section
   - type: cta_section
     actions:
-      - label: Get tickets
+      - label: Call Us Now
         url: /thank-you
         style: primary
         has_icon: true
