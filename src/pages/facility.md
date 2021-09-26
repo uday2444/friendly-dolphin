@@ -11,6 +11,8 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: >-
+          images/businessman-holding-hour-glass-signifies-importance-being-time.jpg
     feature_padding_vert: medium
     align: center
     padding_top: medium
