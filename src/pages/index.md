@@ -180,7 +180,7 @@ sections:
         image_align: left
         image_has_padding: false
         title: FMCG BTL Services
-        image: images/pexels-fauxels-3184430.jpg
+        image: images/resize-163198841962568202abstractblurdefocusedsupermarket2.jpg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
