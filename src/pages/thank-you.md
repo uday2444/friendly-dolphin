@@ -36,7 +36,7 @@ sections:
         default_value: Select
         options:
           - Facility Management
-          - lorem-ipsum
+          - Marketing Strategies
           - lorem-ipsum
         is_required: false
     submit_label: lorem-ipsum
