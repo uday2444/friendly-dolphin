@@ -37,6 +37,7 @@ sections:
         options:
           - lorem-ipsum
           - lorem-ipsum
+          - lorem-ipsum
         is_required: false
     submit_label: lorem-ipsum
     align_vert: top
