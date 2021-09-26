@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Industries We Serve
 seo:
   title: Sponsorship
   description: This is the sponsorship page
