@@ -218,7 +218,7 @@ sections:
         media_width: fifty
         align: left
         image: images/tactic.jpeg
-      - title: lorem-ipsum
+      - title: Goals & Objectives
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
