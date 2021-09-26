@@ -30,7 +30,7 @@ sections:
         image_position: left
         image_width: twenty-five
         title: ' Make Better Decisions With Humanity'
-      - title: 2 Tracks
+      - title: What We Believe
         title_align: left
         content: Two tracks conference for curious developers.
         content_align: left
