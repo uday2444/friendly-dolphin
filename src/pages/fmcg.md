@@ -9,6 +9,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: images/pexels-fauxels-3184430-de559224.jpg
     feature_padding_vert: medium
     align: center
     padding_top: medium
