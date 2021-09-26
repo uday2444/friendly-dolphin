@@ -229,17 +229,10 @@ sections:
         align: left
         image: images/goals3.jpeg
       - title: Operations Management
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          Management of processes that transform inputs into goods and services
+          that add value for the customer.
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
