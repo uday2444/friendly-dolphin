@@ -121,7 +121,7 @@ sections:
   - title: Services We Offer
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Facility Management
         subtitle: lorem-ipsum
         title_align: left
         content: >-
