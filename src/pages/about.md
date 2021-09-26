@@ -2,7 +2,6 @@
 title: About
 sections:
   - title: About Our Company
-    subtitle: lorem-ipsum
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
