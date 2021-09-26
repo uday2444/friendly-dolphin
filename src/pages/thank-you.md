@@ -57,4 +57,9 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
 template: advanced
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
 ---
