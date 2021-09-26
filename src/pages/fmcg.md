@@ -3,8 +3,7 @@ title: FMCG BTL SERVICE
 sections:
   - title: FMCG BTL SERVICE
     features:
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
