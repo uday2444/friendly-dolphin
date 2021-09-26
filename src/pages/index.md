@@ -210,6 +210,7 @@ sections:
         media_width: fifty
         align: left
         title: Strategy
+        image: images/strategy.jpeg
     feature_padding_vert: medium
     align: center
     padding_top: medium
