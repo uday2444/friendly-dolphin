@@ -33,7 +33,7 @@ sections:
       - input_type: select
         name: Subject
         label: Subject
-        default_value: lorem-ipsum
+        default_value: Select
         options: []
         is_required: false
     submit_label: lorem-ipsum
