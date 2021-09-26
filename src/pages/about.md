@@ -35,6 +35,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: images/pexels-fauxels-3184430-29fb37f1.jpg
     feature_padding_vert: medium
     align: center
     padding_top: medium
