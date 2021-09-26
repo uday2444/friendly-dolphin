@@ -26,7 +26,7 @@ sections:
         is_required: false
       - input_type: email
         name: Email
-        label: lorem-ipsum
+        label: Email Id
         default_value: lorem-ipsum
         options: []
         is_required: false
