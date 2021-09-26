@@ -2,7 +2,6 @@
 title: MARKETING STRATEGIES
 sections:
   - title: MARKETING STRATEGIES
-    subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
