@@ -196,7 +196,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: How Do We Work !
-    subtitle: lorem-ipsum
+    subtitle: 'Supporting The Cause, Building Working Together Platform'
     features: []
     feature_padding_vert: medium
     align: center
