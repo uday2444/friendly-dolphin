@@ -146,7 +146,7 @@ sections:
         content_align: left
         actions:
           - label: Read More
-            url: '#'
+            url: /marketing
             style: primary
             has_icon: false
             icon: arrow-left
