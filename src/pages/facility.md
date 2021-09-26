@@ -1,8 +1,7 @@
 ---
 title: FACILITY MANAGEMENT
 sections:
-  - title: FACILITY MANAGEMENT
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     features:
       - title: FACILITY MANAGEMENT
         subtitle: lorem-ipsum
