@@ -290,14 +290,14 @@ sections:
     padding_bottom: medium
     background_color: none
 seo:
-  title: Stackbit Event Theme
-  description: The preview of the Event theme
+  title: TSFM
+  description: TSFM
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Event Theme
+      value: TSFM
       keyName: property
     - name: 'og:description'
       value: The preview of the Event theme
@@ -309,7 +309,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Event Theme
+      value: TSFM
     - name: 'twitter:description'
       value: The preview of the Event theme
     - name: 'twitter:image'
